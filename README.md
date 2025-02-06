@@ -24,7 +24,7 @@ Are there any issues with bias or credibitility of the data source - does it ROC
 - Reliabile: dataset is unreliable. Although central limit theorem applies as the sample size is 30, and can use t test for statistical analysis, a bigger sample size would be more representative of the population. Furthermore, it does not include demographics such as gender, location, age, occupation etc.
 - Original: not original data. It is third party dataset from Kaggle and Amazon Mechanical Turk.
 - Comprehensive: useful datasets are provided such as physical activity, calories second and hourly activity. These factors are valuable for Fitbit analysis, however, most data is only recorded from Tuesday Wednesday and Thursday which makes it less comprehensive.  
-- Current: dataset is not current as it is from 7 years ago (2016). However, may still be useful for analysis. 
+- Current: dataset is not current as it is from 8 years ago (2016). However, may still be useful for analysis. 
 - Cited: dataset states it is updated annually however last updated 2 years ago. Data set from Kaggle, user: MÖBIUS. 
 
 Dataset is under CC0: public Domain lisecnce which means creator has copyright law. 
