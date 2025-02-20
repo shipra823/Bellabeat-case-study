@@ -1,7 +1,7 @@
 
 # Bellabeat Case Study
 #### Author: Shipra Sharma
-#### Date: 02/05/2025
+#### Date: 02/18/2025
 
 <img width="400" alt="bellabeatlogo big" src="https://user-images.githubusercontent.com/125687123/219961609-e96ff4b4-0d98-4248-baa8-f93d70ee7695.png">
 
